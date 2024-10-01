@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Marshall0947
 - 👀 I’m interested in: Coding
-- 🌱 I’m currently learning: CSS, JS, HTML, and C++
+- 🌱 I’m currently learning: HTML
 - 🌳 I have a learned the coding languages:
-- ⌛I started coding when I was 12 years old
+- ⌛I started coding when I was 13 years old
 - 💞️ I’m looking to collaborate on: Nothing
 - 📫 How to reach me: Dont
 - 😄 Pronouns: Him
